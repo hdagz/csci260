@@ -9,24 +9,35 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Software Entropy 
 
-1. Numbered
-2. List
+-I was drawn to this section because I am familiar with the term entropy from my chemistry
+and physics classes. Entropy is the amount of ever-increasing disorder in a system. 
+When making a proect, one must fight against disorder and strive toward order. 
+Programmers must keep their software orderly and avoid software rot. 
 
-**Bold** and _Italic_ and `Code` text
+-The entropy of the universe is always increasing. When working on projects,
+it is important that everyone is diligent and hardworking. The team must have a 
+universal mindset and dedication to the project. If one person starts to slack, 
+that rot will disperse and affect the whole team and software. 
 
-[Link](url) and ![Image](src)
-```
+I learned about the “Broken Window Theory” first in my sociology class.
+We discussed an abandoned house in a low income area that was often victim to 
+vandalism and theft.  A team of researchers retored one of the houses with art,
+it was painted to look like a house of cards with the windows being different 
+playing cards such as the Queen of Hearts. Everyone in the area appreciated 
+the art and recognized that this house was being taken care of by others. 
+They did not want to destory this beautiful art pieve that contributed to the
+neighborhood. We must treat our code with care and not disregard it as
+being rot or poorly written.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+As we write our code, we must avoid broken windows. We must fix errors and faults as
+we see them and not leave them for later while errors acculumlate. As we fix errors, 
+we cannot break the whole system. We must take care to retain the integrity of the parts
+of the software that are working adn but put out fires as we see them. 
+
 
 ### Jekyll Themes
 
