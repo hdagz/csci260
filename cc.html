@@ -39,13 +39,12 @@ function validate() {
 
         alert("Valid");
 
-        //return true;
 
     } else {
 
         alert("Invalid");
 
-        //return false;
+       
 
     }
 
@@ -57,10 +56,10 @@ function validate() {
     <p>Insert a 16 digit credit card number:</p>
       <form>
                 <input type="text" id="creditcard">
-                <button onclick="validate(this.form.creditcard.value)">Validate</button>
+                <button type="button" onclick="validate(this.form.creditcard.value)">Validate</button>
             </form>
 
-    <script src="validate.js"></script>
+  
   </body>
   </html>
 
