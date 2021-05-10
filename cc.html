@@ -55,10 +55,11 @@ function validate() {
 
 </script>
     <p>Insert a 16 digit credit card number:</p>
-    <form onsubmit="validate()">
-      <input name="text" id="text">
-      <button type="button" onclick="validate()">Validate</button>
-    </form>
+      <form>
+                <input type="text" id="creditcard">
+                <button onclick="validate(this.form.creditcard.value)">Validate</button>
+            </form>
+
     <script src="validate.js"></script>
   </body>
   </html>
