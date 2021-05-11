@@ -1,5 +1,5 @@
 <head>
-    <title>Homework 3: Credit Card Validator</title>
+    <title> Homework 3: Credit Card Validator</title>
 
 </head><script>
 function validate() {
@@ -55,7 +55,7 @@ function validate() {
 
 </script>
     <p>Insert a 16 digit credit card number:</p>
-      <form>
+      <form onsubmit="validate()">
                 <input type="text" id="cardNumber">
                 <button type="button" onclick="validate(this.form.cardNumber.value)">Validate</button>
             </form>
